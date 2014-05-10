@@ -1877,4 +1877,7 @@ body {
 	visibility: hidden;
 }
 
+iframe {
+	display: none; /* I feel dirty */
+}
 
