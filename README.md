@@ -1,7 +1,7 @@
 The Language of Languages
 ======================
 
-The slides from the original presentation can be found [here](http://womenwhocodedc.github.io/thelanguagesoflanguages/).
+The slides from the original presentation can be found [here](http://womenwhocodedc.com/intro-to-git/).
 
 # Viewing/Editing These Slides Locally
 These slides use both [Node]() and [Grunt](). If you don't have these, check their websites for installation instructions. To run a web server locally to view the slides, do the following:
