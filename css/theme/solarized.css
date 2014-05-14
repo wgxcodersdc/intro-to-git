@@ -24,6 +24,10 @@ body {
   background: #fdf6e3;
   background-color: #fdf6e3; }
 
+.code-large {
+  font-size: 200% !important;
+}
+
 .reveal {
   font-family: "Lato", sans-serif;
   font-size: 36px;
