@@ -26,6 +26,16 @@ body {
 
 .code-large {
   font-size: 200% !important;
+  margin-bottom: 10px !important;
+  display: block;
+  line-height: 1em !important;
+}
+
+.code-inline {
+  padding: 5px !important;
+  background-color: #cccccc;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
 }
 
 .reveal {
