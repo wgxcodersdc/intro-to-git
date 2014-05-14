@@ -4,7 +4,7 @@ Intro to Git
 The slides from the original presentation can be found [here](http://womenwhocodedc.com/intro-to-git/). The file with startup instructions can be found [here](http://womenwhocodedc.com/intro-to-git/intro-to-git.pdf).
 
 # To Edit
-[ ] Change all terminal commands to lowercase
+[x] Change all terminal commands to lowercase
 [ ] Printables should have resources/link to slides
 [ ] Printable should be made into an editable PDF
 
